@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"Whatever you do, enjoy it to the fullest. That is the secret of life."* — **Rider (Fate/Zero)**
+> 💬 *"The quality, not the longevity, of one's life is what is important."* — **Martin Luther King, Jr.**
 
 </div>
 <!-- quote-end -->

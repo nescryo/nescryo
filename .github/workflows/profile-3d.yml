@@ -18,6 +18,29 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+
+      - name: Customize SVG (Transparent Background & Remove Bottom Stats)
+        run: |
+          python3 -c "
+          import glob, xml.etree.ElementTree as ET
+          ET.register_namespace('', 'http://www.w3.org/2000/svg')
+          for svg_path in glob.glob('profile-3d-contrib/*.svg'):
+              tree = ET.parse(svg_path)
+              root = tree.getroot()
+              to_remove = []
+              for child in list(root):
+                  # 1. Background rectangle (make transparent)
+                  if child.tag.endswith('rect') and (child.attrib.get('class') == 'fill-bg' or (child.attrib.get('width') == '1280' and child.attrib.get('height') == '850')):
+                      to_remove.append(child)
+                  # 2. Bottom stats (contributions, star icon, fork icon)
+                  texts = [t.text for t in child.iter() if t.text]
+                  if any('contributions' in (t or '').lower() for t in texts):
+                      to_remove.append(child)
+              for elem in to_remove:
+                  root.remove(elem)
+              tree.write(svg_path, encoding='utf-8')
+          "
+
       - name: Commit & Push
         run: |
           git config user.name github-actions

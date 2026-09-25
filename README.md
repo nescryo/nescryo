@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> 💬 *"A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided."* — **Tony Robbins**
+> 💬 *"Whatever you do, enjoy it to the fullest. That is the secret of life."* — **Rider (Fate/Zero)**
 
 </div>
 <!-- quote-end -->

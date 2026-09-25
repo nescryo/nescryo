@@ -2,7 +2,6 @@ name: Daily Inspirational Quote
 
 on:
   schedule:
-    # Berjalan tiap jam 17:00 UTC = Jam 00:00 Tengah Malam WIB
     - cron: '0 17 * * *'
   workflow_dispatch:
 

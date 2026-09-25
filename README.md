@@ -24,8 +24,8 @@
     
 <div align="center">
     
-<img src="https://skillicons.dev/icons?i=ts,js,react,threejs,tailwind,html,css,vite" /><br/>
-<img src="https://skillicons.dev/icons?i=php,laravel,python,rust,linux,bash,git,docker" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,threejs,html,css,vite,kotlin" /><br/>
+<img src="https://skillicons.dev/icons?i=php,laravel,tailwind,python,linux,bash,git,docker" />
     
 </div>
     
@@ -44,19 +44,12 @@
     
 <div align="center">
     
-
-<img src="https://github-stats-extended.vercel.app/api?username=nescryo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-height="150" alt="GitHub Stats" />
-&nbsp;
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nescryo&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-
     
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nescryo&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-
-<br/><br/>
+<br/>
 
 <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
+
+<br/><br/>
+
 
 </div>

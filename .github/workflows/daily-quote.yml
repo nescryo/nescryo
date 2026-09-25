@@ -1,0 +1,35 @@
+name: Daily Inspirational Quote
+
+on:
+  schedule:
+    # Berjalan tiap jam 17:00 UTC = Jam 00:00 Tengah Malam WIB
+    - cron: '0 17 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Fetch and Update Quote
+        run: |
+          python3 .github/scripts/update-quote.py
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "nescryo"
+          git config --global user.email "muhammadryo15@gmail.com"
+          
+          git add README.md
+          git commit -m "docs(quote): sync daily inspirational quote" || exit 0
+          git push

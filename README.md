@@ -51,8 +51,12 @@ height="150" alt="GitHub Stats" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nescryo&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 
     
-<br/>
-    
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nescryo&theme=tokyonight&hide_border=true" />
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nescryo&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+
+<br/><br/>
+
+<img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
 
 </div>

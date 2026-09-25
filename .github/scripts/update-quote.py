@@ -50,7 +50,7 @@ def main():
     replacement = f"""<!-- quote-start -->
 <div align="center">
 
-> 💬 *"{quote}"* — **{author}**
+>  *"{quote}"* — **{author}**
 
 </div>
 <!-- quote-end -->"""

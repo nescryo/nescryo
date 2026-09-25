@@ -11,6 +11,8 @@ permissions:
 jobs:
   update-quote:
     runs-on: ubuntu-latest
+    env:
+      TZ: "Asia/Jakarta"
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4

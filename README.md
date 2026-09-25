@@ -23,7 +23,7 @@
     
 ###  About Me
     
--  Working on **[Viera-AI](https://github.com/nescryo/Viera-AI)** (interactive 3D & AI web experiments) & **Full-Stack apps**.
+-  Working on interactive 3D AI web experiments & **Full-Stack apps**.
 -  Exploring **Three.js, MMD parsing, React 19, and Voice/AI pipelines**.
 -  Passionate about blending anime/virtual aesthetic with modern web technologies.
 -  Ask me about **TypeScript, Laravel, React, or Vite setups**.

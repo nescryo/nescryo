@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"Whatever you do, enjoy it to the fullest. That is the secret of life."* — **Rider (Fate/Zero)**
+>  *"If you do not like your destiny, do not accept it. Instead, have the courage to change it."* — **Naruto Uzumaki**
 
 </div>
 <!-- quote-end -->

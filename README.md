@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"If you do not like your destiny, do not accept it. Instead, have the courage to change it."* — **Naruto Uzumaki**
+>  *"Fear is not evil. It tells you what your weakness is."* — **Gildarts Clive (Fairy Tail)**
 
 </div>
 <!-- quote-end -->

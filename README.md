@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"Fear is not evil. It tells you what your weakness is."* — **Gildarts Clive (Fairy Tail)**
+>  *"You just can't beat the person who never gives up."* — **Babe Ruth**
 
 </div>
 <!-- quote-end -->

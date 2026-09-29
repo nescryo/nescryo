@@ -34,8 +34,8 @@
     
 <div align="center">
     
-<img src="https://skillicons.dev/icons?i=ts,js,react,threejs,html,css,vite,kotlin" /><br/>
-<img src="https://skillicons.dev/icons?i=php,laravel,tailwind,python,linux,bash,git,docker" />
+<img src="https://skillicons.dev/icons?i=blender,ts,js,react,threejs,html,css,vite" /><br/>
+<img src="https://skillicons.dev/icons?i=php,laravel,tailwind,androidstudio,linux,kotlin,git,docker" />
     
 </div>
     

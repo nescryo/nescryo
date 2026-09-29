@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"You just can't beat the person who never gives up."* — **Babe Ruth**
+>  *"Give a girl the right shoes, and she can conquer the world."* — **Bette Midler**
 
 </div>
 <!-- quote-end -->

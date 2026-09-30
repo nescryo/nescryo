@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"Give a girl the right shoes, and she can conquer the world."* — **Bette Midler**
+>  *"No one knows what the future holds. That is why its potential is infinite."* — **Rintaro Okabe (Steins;Gate)**
 
 </div>
 <!-- quote-end -->

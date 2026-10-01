@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"No one knows what the future holds. That is why its potential is infinite."* — **Rintaro Okabe (Steins;Gate)**
+>  *"The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty."* — **Winston Churchill**
 
 </div>
 <!-- quote-end -->

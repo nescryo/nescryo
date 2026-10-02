@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty."* — **Winston Churchill**
+>  *"Life is not meant to be easy my child, but take courage: it can be delightful."* — **George Bernard Shaw**
 
 </div>
 <!-- quote-end -->

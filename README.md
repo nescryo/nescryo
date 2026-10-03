@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"Life is not meant to be easy my child, but take courage: it can be delightful."* — **George Bernard Shaw**
+>  *"Fix the cause, not the symptom."* — **Steve Maguire**
 
 </div>
 <!-- quote-end -->

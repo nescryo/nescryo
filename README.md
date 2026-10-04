@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"Fix the cause, not the symptom."* — **Steve Maguire**
+>  *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — **Martin Fowler**
 
 </div>
 <!-- quote-end -->

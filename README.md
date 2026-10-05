@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — **Martin Fowler**
+>  *"Treat everyone with politeness and kindness, not because they are nice, but because you are."* — **Roy T. Bennett**
 
 </div>
 <!-- quote-end -->

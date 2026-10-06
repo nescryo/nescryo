@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"Treat everyone with politeness and kindness, not because they are nice, but because you are."* — **Roy T. Bennett**
+>  *"Walking on water and developing software from a specification are easy if both are frozen."* — **Edward V. Berard**
 
 </div>
 <!-- quote-end -->

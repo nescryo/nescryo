@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"Walking on water and developing software from a specification are easy if both are frozen."* — **Edward V. Berard**
+>  *"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward."* — **Colin Powell**
 
 </div>
 <!-- quote-end -->

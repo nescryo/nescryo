@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward."* — **Colin Powell**
+>  *"Difficulties strengthen the mind, as labor does the body."* — **Seneca**
 
 </div>
 <!-- quote-end -->

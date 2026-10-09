@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"Difficulties strengthen the mind, as labor does the body."* — **Seneca**
+>  *"Make it work, make it right, make it fast."* — **Kent Beck**
 
 </div>
 <!-- quote-end -->

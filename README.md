@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"Make it work, make it right, make it fast."* — **Kent Beck**
+>  *"Learn from the rejection and turn it into an opportunity!"* — **Mary Engelbreit**
 
 </div>
 <!-- quote-end -->

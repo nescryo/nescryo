@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"Learn from the rejection and turn it into an opportunity!"* — **Mary Engelbreit**
+>  *"The wisest men follow their own direction."* — **Euripides**
 
 </div>
 <!-- quote-end -->

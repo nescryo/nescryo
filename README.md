@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"The wisest men follow their own direction."* — **Euripides**
+>  *"Human happiness and moral duty are inseparably connected."* — **George Washington**
 
 </div>
 <!-- quote-end -->

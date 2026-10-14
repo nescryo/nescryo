@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"Whatever you do, enjoy it to the fullest. That is the secret of life."* — **Rider (Fate/Zero)**
+>  *"No one knows what the future holds. That is why its potential is infinite."* — **Rintaro Okabe (Steins;Gate)**
 
 </div>
 <!-- quote-end -->

@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"No one knows what the future holds. That is why its potential is infinite."* — **Rintaro Okabe (Steins;Gate)**
+>  *"You need a plan to build a house. To build a life, it is even more important to have a plan or goal."* — **Zig Ziglar**
 
 </div>
 <!-- quote-end -->

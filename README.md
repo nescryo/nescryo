@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"You need a plan to build a house. To build a life, it is even more important to have a plan or goal."* — **Zig Ziglar**
+>  *"The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches."* — **Ming-Dao Deng**
 
 </div>
 <!-- quote-end -->

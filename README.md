@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches."* — **Ming-Dao Deng**
+>  *"Fix the cause, not the symptom."* — **Steve Maguire**
 
 </div>
 <!-- quote-end -->

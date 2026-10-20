@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"Fix the cause, not the symptom."* — **Steve Maguire**
+>  *"The law of harvest is to reap more than you sow. Sow an act, and you reap a habit. Sow a habit and you reap a character. Sow a character and you reap a destiny."* — **James Allen**
 
 </div>
 <!-- quote-end -->

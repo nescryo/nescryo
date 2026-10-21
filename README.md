@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"The majority of what you want will come from the minority of what you do."* — **Gary Keller**
+>  *"I am who I am today because of the choices I made yesterday."* — **Eleanor Roosevelt**
 
 </div>
 <!-- quote-end -->

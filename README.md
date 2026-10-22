@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"I am who I am today because of the choices I made yesterday."* — **Eleanor Roosevelt**
+>  *"What the caterpillar calls the end of the world, the master calls a butterfly."* — **Richard Bach**
 
 </div>
 <!-- quote-end -->

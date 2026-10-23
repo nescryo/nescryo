@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"What the caterpillar calls the end of the world, the master calls a butterfly."* — **Richard Bach**
+>  *"Progress is impossible without change, and those who cannot change their minds cannot change anything."* — **George Bernard Shaw**
 
 </div>
 <!-- quote-end -->

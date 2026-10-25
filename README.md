@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"Most people spend more time and energy going around problems than in trying to solve them."* — **Henry Ford**
+>  *"Many people spend more time looking at their failures than focusing on their successes."* — **Lolly Daskal**
 
 </div>
 <!-- quote-end -->

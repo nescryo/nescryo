@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"Many people spend more time looking at their failures than focusing on their successes."* — **Lolly Daskal**
+>  *"The best error message is the one that never shows up."* — **Thomas Fuchs**
 
 </div>
 <!-- quote-end -->

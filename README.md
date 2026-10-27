@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"The best error message is the one that never shows up."* — **Thomas Fuchs**
+>  *"Anyone who has ever made anything of importance was disciplined."* — **Andrew Hendrixson**
 
 </div>
 <!-- quote-end -->

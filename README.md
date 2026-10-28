@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"Anyone who has ever made anything of importance was disciplined."* — **Andrew Hendrixson**
+>  *"When you're curious, you find lots of interesting things to do."* — **Walt Disney**
 
 </div>
 <!-- quote-end -->

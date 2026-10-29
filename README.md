@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"When you're curious, you find lots of interesting things to do."* — **Walt Disney**
+>  *"Fix the cause, not the symptom."* — **Steve Maguire**
 
 </div>
 <!-- quote-end -->

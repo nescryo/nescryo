@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"Fix the cause, not the symptom."* — **Steve Maguire**
+>  *"If you don't have time to do it right, when will you have time to do it over?"* — **John Wooden**
 
 </div>
 <!-- quote-end -->

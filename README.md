@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"If you don't have time to do it right, when will you have time to do it over?"* — **John Wooden**
+>  *"It is easy to discover what another has discovered before."* — **Christopher Columbus**
 
 </div>
 <!-- quote-end -->

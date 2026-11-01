@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"It is easy to discover what another has discovered before."* — **Christopher Columbus**
+>  *"When your intuition is strong, follow it."* — **Lolly Daskal**
 
 </div>
 <!-- quote-end -->

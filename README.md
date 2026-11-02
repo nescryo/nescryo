@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"When your intuition is strong, follow it."* — **Lolly Daskal**
+>  *"Push through the pain, giving up hurts more."* — **Vegeta (Dragon Ball)**
 
 </div>
 <!-- quote-end -->

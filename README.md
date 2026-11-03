@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"Push through the pain, giving up hurts more."* — **Vegeta (Dragon Ball)**
+>  *"You are what you believe yourself to be."* — **Paulo Coelho**
 
 </div>
 <!-- quote-end -->

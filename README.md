@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"You are what you believe yourself to be."* — **Paulo Coelho**
+>  *"The fear of death is more to be feared, than death itself."* — **Publilius Syrus**
 
 </div>
 <!-- quote-end -->

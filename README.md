@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"The fear of death is more to be feared, than death itself."* — **Publilius Syrus**
+>  *"The world is not perfect. But it is there for us, doing the best it can."* — **Roy Mustang (Fullmetal Alchemist)**
 
 </div>
 <!-- quote-end -->

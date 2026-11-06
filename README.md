@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"The world is not perfect. But it is there for us, doing the best it can."* — **Roy Mustang (Fullmetal Alchemist)**
+>  *"Every day passes whether you participate or not."* — **Ming-Dao Deng**
 
 </div>
 <!-- quote-end -->

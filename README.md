@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"Every day passes whether you participate or not."* — **Ming-Dao Deng**
+>  *"Experience is the name everyone gives to their mistakes."* — **Oscar Wilde**
 
 </div>
 <!-- quote-end -->

@@ -45,7 +45,7 @@
     
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Viera-AI](https://github.com/nescryo/Viera-AI)** | AI Chatbot with HSR Character  | `React` `Three.js` `TypeScript` |
+| **[Viera-AI](https://github.com/nescryo/Viera-AI)** | AI Chatbot with live2d character  | `React` `Three.js` `TypeScript` |
 
     
 ---

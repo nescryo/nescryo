@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"Experience is the name everyone gives to their mistakes."* — **Oscar Wilde**
+>  *"Do good, live in the most positive and joyful way possible every day."* — **Roy T. Bennett**
 
 </div>
 <!-- quote-end -->

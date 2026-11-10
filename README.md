@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"Do good, live in the most positive and joyful way possible every day."* — **Roy T. Bennett**
+>  *"If you don't take risks, you can't create a future."* — **Monkey D. Luffy (One Piece)**
 
 </div>
 <!-- quote-end -->

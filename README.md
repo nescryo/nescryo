@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"If you don't take risks, you can't create a future."* — **Monkey D. Luffy (One Piece)**
+>  *"Whether a fish lives in a clear stream or a water ditch, so long as it continues swimming forward, it will grow up beautifully."* — **Koro-sensei (Assassination Classroom)**
 
 </div>
 <!-- quote-end -->

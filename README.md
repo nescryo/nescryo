@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"Whether a fish lives in a clear stream or a water ditch, so long as it continues swimming forward, it will grow up beautifully."* — **Koro-sensei (Assassination Classroom)**
+>  *"No one knows what the future holds. That is why its potential is infinite."* — **Rintaro Okabe (Steins;Gate)**
 
 </div>
 <!-- quote-end -->

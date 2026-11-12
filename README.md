@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"No one knows what the future holds. That is why its potential is infinite."* — **Rintaro Okabe (Steins;Gate)**
+>  *"Why live an ordinary life, when you can live an extraordinary one."* — **Tony Robbins**
 
 </div>
 <!-- quote-end -->

@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"Why live an ordinary life, when you can live an extraordinary one."* — **Tony Robbins**
+>  *"Do not stop thinking of life as an adventure."* — **Eleanor Roosevelt**
 
 </div>
 <!-- quote-end -->

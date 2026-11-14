@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"Do not stop thinking of life as an adventure."* — **Eleanor Roosevelt**
+>  *"Whatever you do, enjoy it to the fullest. That is the secret of life."* — **Rider (Fate/Zero)**
 
 </div>
 <!-- quote-end -->

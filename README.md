@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"Whatever you do, enjoy it to the fullest. That is the secret of life."* — **Rider (Fate/Zero)**
+>  *"The more you are motivated by Love, The more Fearless & Free your action will be."* — **Dalai Lama**
 
 </div>
 <!-- quote-end -->

@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"Don't let the noise of others opinions drown out your inner voice."* — **Steve Jobs**
+>  *"Death and life have their determined appointments; riches and honors depend upon heaven."* — **Confucius**
 
 </div>
 <!-- quote-end -->

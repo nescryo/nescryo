@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"The more you are motivated by Love, The more Fearless & Free your action will be."* — **Dalai Lama**
+>  *"Don't let the noise of others opinions drown out your inner voice."* — **Steve Jobs**
 
 </div>
 <!-- quote-end -->

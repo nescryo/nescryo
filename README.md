@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"Death and life have their determined appointments; riches and honors depend upon heaven."* — **Confucius**
+>  *"Live calmly. The time will come when the flowers bloom by themselves."* — **Zen Proverb**
 
 </div>
 <!-- quote-end -->

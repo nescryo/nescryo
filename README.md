@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"Live calmly. The time will come when the flowers bloom by themselves."* — **Zen Proverb**
+>  *"Whatever you do, enjoy it to the fullest. That is the secret of life."* — **Rider (Fate/Zero)**
 
 </div>
 <!-- quote-end -->

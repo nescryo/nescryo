@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"Whatever you do, enjoy it to the fullest. That is the secret of life."* — **Rider (Fate/Zero)**
+>  *"Listen to what you know instead of what you fear."* — **Richard Bach**
 
 </div>
 <!-- quote-end -->

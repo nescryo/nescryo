@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"Listen to what you know instead of what you fear."* — **Richard Bach**
+>  *"True masters are those who've chosen to make a life rather than a living."* — **Neale Donald Walsch**
 
 </div>
 <!-- quote-end -->

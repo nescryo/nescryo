@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"True masters are those who've chosen to make a life rather than a living."* — **Neale Donald Walsch**
+>  *"You can avoid reality, but you cannot avoid the consequences of avoiding reality."* — **Ayn Rand**
 
 </div>
 <!-- quote-end -->

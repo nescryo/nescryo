@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"You can avoid reality, but you cannot avoid the consequences of avoiding reality."* — **Ayn Rand**
+>  *"Freedom from desire leads to inner peace."* — **Lao Tzu**
 
 </div>
 <!-- quote-end -->

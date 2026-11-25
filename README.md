@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"Freedom from desire leads to inner peace."* — **Lao Tzu**
+>  *"Don't let anyone define you. You define yourself."* — **Billie Jean King**
 
 </div>
 <!-- quote-end -->

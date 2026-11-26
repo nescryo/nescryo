@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"Don't let anyone define you. You define yourself."* — **Billie Jean King**
+>  *"He who has overcome his fears will truly be free."* — **Aristotle**
 
 </div>
 <!-- quote-end -->

@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"He who has overcome his fears will truly be free."* — **Aristotle**
+>  *"It does not matter how slowly you go so long as you do not stop."* — **Confucius**
 
 </div>
 <!-- quote-end -->

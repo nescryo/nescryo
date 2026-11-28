@@ -14,7 +14,7 @@
 <!-- quote-start -->
 <div align="center">
 
->  *"It does not matter how slowly you go so long as you do not stop."* — **Confucius**
+>  *"To achieve, you need thought. You have to know what you are doing and that's real power."* — **Ayn Rand**
 
 </div>
 <!-- quote-end -->
